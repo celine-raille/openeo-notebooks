@@ -37,4 +37,4 @@ Bibliothèques requises:
 - rasterio
 - matplotlib
 
-Il est également possible de les exécuter en ligne. Nous vous recommandons [https://colab.research.google.com/](Google Colab) (attention, il faut un compte Google).
+Il est également possible de les exécuter en ligne. Nous vous recommandons [Google Colab](https://colab.research.google.com/) (attention, il faut un compte Google).
