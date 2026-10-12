@@ -11,8 +11,14 @@ Il contient actuellement les notebooks suivants :
 
 ## Prérequis
 
-Pour demander un compte :
-TODO !!!!
+**Avoir un compte sur le backend OpenEO CNES.**
+
+Pour cela, lors de votre première connexion (avec le notebook de votre choix), vous devez vous créer un compte (bouton *Create account*).
+
+Une fois les champs remplis et le compte créé, vous allez tomber sur une erreur : c'est normal et lié au fait que l'envoi de mails n'a pas encore été intégré.
+
+Ce n'est pas bloquant : vous pouvez fermer la pop-up puis vous reconnecter avec le compte que vous venez de créer.
+
 
 ## Exécution sur TREX
 
